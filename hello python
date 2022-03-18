@@ -1,7 +1,10 @@
 Jungmin Park, Hankuk University of foreign Studies
 Touches by user2
 
-n = int(input())
+
+
+n = int(input(comeputer))
+#computer 추가함
 
 print(n)
 
