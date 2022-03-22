@@ -6,3 +6,5 @@ n = int(input())
 print(n)
 
 print("hello python")
+
+#안녕하세요저는두번째과제를수행중입니다삐빅
