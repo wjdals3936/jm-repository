@@ -1,7 +1,7 @@
 Jungmin Park, Hankuk University of foreign Studies
 Touches by user2
 
-
+import os
 
 n = int(input(comeputer))
 #computer 추가함
@@ -14,3 +14,5 @@ print("hello python")
 #깃허브이것저것다신기하다삐비비빅
 
 #16번줄을 수정합니다 
+
+
